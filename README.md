@@ -15,7 +15,7 @@ Clone the last fork you made to your machine.
 
 Make a change or changes to some or a file in the project.
 
-Use `git add` `git commit` and `git push` to push your changes to github.
+Use `git add` `git commit` and `git push` to push your changes to GitHub.
 
 Now create a pull request on the first fork you made, asking yourself to merge the changes you made in your fork's fork, into the first fork.
 
@@ -31,7 +31,7 @@ Make a change or changes to some or a file in the project.
 
 Use `git add` `git commit` and `git push` to push your changes to github.
 
-Now create a pull request on the first fork you made, asking the other person to merge the changes you made in your fork, into their fork.
+Now create a pull request on the other person's fork, asking the other person to merge the changes you made in your fork, into their fork.
 
 ## For 3 learners
 
